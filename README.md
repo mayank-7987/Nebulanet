@@ -1,5 +1,5 @@
 # Exoplanet Classification for Humanity's Future
-This project tackles the Exoplanet-Hunting Challenge at Jigyasa '24, a physics festival by IIT BHU, and was awarded **1st Place** at the **Nebulanet Hackathon**.
+This project tackles the Exoplanet-Hunting Challenge. 
 The goal is to develop a machine learning model that accurately predicts habitable exoplanets based on astronomical data, potentially guiding future interstellar exploration and the search for a second home for humanity.
 ## Model Used
 
